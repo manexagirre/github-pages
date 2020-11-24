@@ -1,10 +1,10 @@
-title: Portafolio de Manex Agirre
-author: Manex Agirre
+title: Portafolio de MANEX AGIRRE
+author: MANEX AGIRRE
 email: manex.agirre@opendeusto.es
 description: > # this means to ignore newlines until "baseurl:"
-theme: minima
-
+  Este sitio está creado en la asignatura de Web. 
 # social links
-github_username:  manexagirre # NO incluyas el carácter @ character, ¡o la compilación fallará!
+github_username: manexagirre # NO incluyas el carácter @ ¡o la compilación fallará!    
 
-show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
+show_excerpts: true 
+theme: minima
