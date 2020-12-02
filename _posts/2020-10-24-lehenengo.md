@@ -2,5 +2,9 @@
 title: "Primera reunión de expertos: Estrategia de diseños UX"
 date: 2020-10-24
 ---
-¿Cómo establecer una Estrategia de diseño UX?
-Como expertos UX en diseñar productos a veces cometemos el pecado de centrarnos solamente en el usuario. También se suele tener la mala percepción de que el secreto de la mejor experiencia de usuario se limita a esbozar sorprendentes interfaces. Pero… ¿qué pasa con el aspecto comercial? ¿Cómo integrar la experiencia del usuario con los objetivos de una empresa?
+¿CÓMO ESTABLECER UNA ESTRATEGIA DE DISEÑO UX?
+La estrategia de la experiencia consiste principalmente en alinear el diseño de la experiencia del usuario con las metas del negocio. 
+Se debe llegar a una conclusión directa y continua. Evaluando los estudios de usuarios, las prioridades de negocio y el mapa de experiencia se debe llegar la identificación del target adecuado, que bien puede ser específico para el sector más relevante del negocio o también puede estar dirigido a segmentos más pequeños que permitan el entendimiento de las necesidades y deseos de los usuarios. 
+Continuamente, se debe llevar a cabo un estudio general para conocer de qué manera se presenta el producto como único a los clientes y porqué ese target te prefiere a ti antes que a tus competidores. Todo llevará al mismo resultado: un conjunto de directrices que apunten a la estrategia permanente de los productos y servicios de tu empresa.
+Una correcta aplicación de una estrategia UX llevará al equipo en una misma dirección
+La estrategia de diseño se presenta como una herramienta para comunicar la visión del producto o servicio al resto de la empresa, esto implica que de ninguna manera el diseño y la estrategia de negocio de una empresa deban ser considerados como sectores desligados. Una correcta aplicación de una estrategia UX llevará al equipo en una misma dirección y será capaz de promover el refuerzo permanente entre ellos a medida que se van identificando las tácticas que llevarán al negocio al éxito comercial y sostenible con el tiempo.
