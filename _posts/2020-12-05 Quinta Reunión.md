@@ -1,6 +1,6 @@
 ---
-title: "Primera reunión de expertos: Estrategia de diseños UX"
-date: 2020-10-24
+title: "Quinta reunión de expertos: Diseño y redacción"
+date: 2020-12-05
 ---
 # ¿PARA QUÉ SIRVE EL SITIO?
 Todo sitio web debe estar diseñado para su target de audiencia. Para ello, debemos preguntarnos que tipo de audiencia tenemos: la edad, procedencia, tiempo de uso…

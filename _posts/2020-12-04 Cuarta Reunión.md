@@ -1,6 +1,6 @@
 ---
 title: "Cuarta reunión de expertos: Estrategia de contenido"
-date: 2020-12-03
+date: 2020-12-04
 ---
 # DEFINICIÓN DE «CARD SORTING» 
 Es una técnica que puede ayudarnos a __establecer nuestra arquitectura de información__. La técnica de «card sorting» se basa en la observación de cómo los usuarios agrupan y asocian entre sí un número predeterminado de tarjetas etiquetadas con las diferentes categorías temáticas del sitio web.
